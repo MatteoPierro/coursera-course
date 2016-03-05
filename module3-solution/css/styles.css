@@ -1,0 +1,32 @@
+/** HEADER **/
+#header-nav {
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand h1 {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#nav-list {
+  background-color: yellow;
+}
+
+#nav-list a {
+  text-align: center;
+}
+
+#section {
+  background-color: green;
+  margin-right: 10px;
+  margin-left: 10px;
+  height: 1000px;
+}
+/* END HEADER */
+
